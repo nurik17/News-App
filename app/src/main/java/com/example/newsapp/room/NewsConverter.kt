@@ -8,6 +8,7 @@ class NewsConverter {
     fun fromSource(source: Source) : String{
         return source.name
     }
+    @TypeConverter
     fun fromString(name: String) : Source{
         return Source(name,name)
     }
