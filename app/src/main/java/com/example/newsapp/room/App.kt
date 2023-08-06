@@ -4,7 +4,7 @@ import android.app.Application
 import androidx.room.Room
 
 class App : Application() {
-
+/*
     companion object{
         lateinit var database: NewsDatabase
             private set
@@ -17,5 +17,5 @@ class App : Application() {
             NewsDatabase::class.java,
             "news_database"
         ).build()
-    }
+    }*/
 }
