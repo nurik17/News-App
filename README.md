@@ -1,21 +1,50 @@
 
 # News App
 
-Welcome to the News App repository! This app is designed to provide you with the latest news headlines from various sources, allowing you to stay informed about current events and trends.
+# Stack
 
-![News App Screenshot](screenshot.png)
+The News App is built using the following technologies and tools:
 
-## Table of Contents
+- **Frontend:** React.js
+- **State Management:** Redux
+- **Styling:** CSS Modules
+- **API:** [News API](https://newsapi.org/)
+- **Build Tool:** Webpack
+- **Version Control:** Git
 
-- [Installation](#installation)
-- [Usage](#usage)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+# Screenshots
 
-## Installation
+![Home Page](screenshots/home.png)
+*Home Page: Browse top headlines and news categories.*
 
-To get started with the News App, follow these steps:
+![Article Page](screenshots/article.png)
+*Article Page: Read full articles by clicking on the headlines.*
 
-1. Clone this repository to your local machine using:
+![Search Page](screenshots/search.png)
+*Search Page: Search for news articles by specific topics or keywords.*
+
+# Installation
+
+...
+
+# Usage
+
+...
+
+# Features
+
+...
+
+# Contributing
+
+...
+
+# License
+
+...
+
+# Contact
+
+...
+
+
