@@ -1,20 +1,21 @@
 
 # News App
 
-# Stack
+
 
 The News App is built using the following technologies and tools:
-
-- **Android Kotlin
-- **State Management:** Redux
-- **Styling:** CSS Modules
-- **API:** [News API](https://newsapi.org/)
-- **Build Tool:** Webpack
-- **Version Control:** Git
+## Stack
+- **Android Kotlin XML**
+- **MVVM Architecture** ViewModel,Repository
+- **Romm library:** for saving locally access
+- **Retrofit** [News API](https://newsapi.org/)
+- **RecyclerView(DiffUtil)**
+- **WebView** 
+  
 
 # Screenshots
 
-![Home Page](screenshots/home.png)
+![Home Page]()
 *Home Page: Browse top headlines and news categories.*
 
 ![Article Page](screenshots/article.png)
