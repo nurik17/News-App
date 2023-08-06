@@ -24,28 +24,8 @@ The News App is built using the following technologies and tools:
 ![Search Page](screenshots/search.png)
 *Search Page: Search for news articles by specific topics or keywords.*
 
-# Installation
-
-...
-
-# Usage
-
-...
-
-# Features
-
-...
-
-# Contributing
-
-...
-
-# License
-
-...
-
 # Contact
-
-...
+my telegramm : @nuriksdu17
+my linkedIn : https://www.linkedin.com/in/nurali-umirzak-443000247/
 
 
