@@ -1,5 +1,6 @@
 package com.example.newsapp.room
 
+import androidx.lifecycle.LiveData
 import androidx.room.Dao
 import androidx.room.Delete
 import androidx.room.Insert
@@ -10,12 +11,11 @@ import kotlinx.coroutines.flow.Flow
 
 @Dao
 interface NewsDao {
-
     @Insert(onConflict = OnConflictStrategy.REPLACE)
     suspend fun upsert(article: Article): Long
 
     @Query("SELECT  * from articles")
-    fun getAllArticles() : Flow<List<Article>>
+    fun getAllArticles() : LiveData<List<Article>>
 
     @Delete
     suspend fun delete(article: Article)

@@ -11,7 +11,6 @@ import com.example.newsapp.model.Article
 @TypeConverters(NewsConverter::class)
 abstract class NewsDatabase : RoomDatabase(){
     abstract fun newsDao() : NewsDao
-
     companion object {
         @Volatile
         private var INSTANCE: NewsDatabase? = null

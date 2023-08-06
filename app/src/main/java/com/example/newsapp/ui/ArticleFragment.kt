@@ -13,6 +13,7 @@ import com.example.newsapp.databinding.FragmentArticleBinding
 import com.example.newsapp.databinding.FragmentNewsBinding
 import com.example.newsapp.model.Article
 import com.example.newsapp.mvvm.NewsViewModel
+import com.google.android.material.snackbar.Snackbar
 
 class ArticleFragment : Fragment() {
     private  var _binding: FragmentArticleBinding? = null
@@ -36,6 +37,11 @@ class ArticleFragment : Fragment() {
         binding.webView.apply {
             webViewClient = WebViewClient()
             loadUrl(article.url.toString())
+        }
+
+        binding.fab.setOnClickListener {
+            viewModel.saveArticle(article)
+            Snackbar.make(view,"News saved successfully",Snackbar.LENGTH_LONG).show()
         }
     }
 }
