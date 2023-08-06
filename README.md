@@ -5,7 +5,7 @@
 
 The News App is built using the following technologies and tools:
 
-- **Frontend:** React.js
+- **Android Kotlin
 - **State Management:** Redux
 - **Styling:** CSS Modules
 - **API:** [News API](https://newsapi.org/)
