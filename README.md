@@ -10,7 +10,8 @@ The News App is built using the following technologies and tools:
 - **Romm library:** for saving locally access
 - **Retrofit** [News API](https://newsapi.org/)
 - **RecyclerView(DiffUtil)**
-- **WebView** 
+- **WebView**
+-  **Coroutines**
   
 
 # Screenshots
