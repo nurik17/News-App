@@ -7,7 +7,7 @@ The News App is built using the following technologies and tools:
 ## Stack
 - **Android Kotlin XML**
 - **MVVM Architecture** ViewModel,Repository
-- **Romm library:** for saving locally access
+- **Room library:** for saving locally access
 - **Retrofit** [News API](https://newsapi.org/)
 - **RecyclerView(DiffUtil)**
 - **WebView**
