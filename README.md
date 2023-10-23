@@ -15,15 +15,13 @@ The News App is built using the following technologies and tools:
   
 
 # Screenshots
+|       |       |       |
+| :---: | :---: | :---: |
+| ![Image 1](login_page.jpeg) | ![Image 2](home_page.jpeg) | ![Image 3](counter_fragment.jpeg) |
+| *Login Screen* | *Home Screen* | *Screen 3* |
 
-![Home Page]()
-*Home Page: Browse top headlines and news categories.*
 
-![Article Page](screenshots/article.png)
-*Article Page: Read full articles by clicking on the headlines.*
 
-![Search Page](screenshots/search.png)
-*Search Page: Search for news articles by specific topics or keywords.*
 
 # Contact
 my telegramm : @nuriksdu17
