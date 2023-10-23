@@ -15,16 +15,16 @@ The News App is built using the following technologies and tools:
   
 
 # Screenshots
-|       |       |       |
-| :---: | :---: | :---: |
+|       |       |       |         | 
+| :---: | :---: | :---: |   :---: |
 | ![Image 1](news_app_1.jpeg) | ![Image 2](news_app_2.jpeg) | ![Image 3](news_app_3.jpeg) | ![Image 4](news_app_4.jpeg) |
-| *Login Screen* | *Home Screen* | *Screen 3* |
+| *News Screen* | *News Search Screen* | *News Save Screen* |  *News WebView Screen* |
 
 
 
 
 # Contact
-my telegramm : @nuriksdu17
-my linkedIn : https://www.linkedin.com/in/nurali-umirzak-443000247/
+- **my telegramm : @nuriksdu17**
+- **my linkedIn : https://www.linkedin.com/in/nurali-umirzak-443000247/**
 
 
