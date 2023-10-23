@@ -17,7 +17,7 @@ The News App is built using the following technologies and tools:
 # Screenshots
 |       |       |       |
 | :---: | :---: | :---: |
-| ![Image 1](login_page.jpeg) | ![Image 2](home_page.jpeg) | ![Image 3](counter_fragment.jpeg) |
+| ![Image 1](news_app_1.jpeg) | ![Image 2](news_app_2.jpeg) | ![Image 3](news_app_3.jpeg) | ![Image 4](news_app_4.jpeg) |
 | *Login Screen* | *Home Screen* | *Screen 3* |
 
 
